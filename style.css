@@ -111,7 +111,7 @@ button:hover {
 .login-icons img {
   width: 40px; /* Adjust according to your icon size */
   margin: 1 5px;
-  padding: 10px;
+  padding: 20px;
 }
 
 .login-icons img:hover {
